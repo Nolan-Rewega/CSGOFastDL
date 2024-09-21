@@ -1,0 +1,7 @@
+# Ignore everything
+*
+
+# Whitelist Bz2 files.
+!surf_*.bsp.bz2
+!kz_*.bsp.bz2
+!bhop_*.bsp.bz2
